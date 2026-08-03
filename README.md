@@ -1,7 +1,7 @@
 /** main.cpp
  * @file    main
  * @brief   ESP32dによるカムプロフィール測定プログラム
- * @author  yoshio ide
+ * @author  yoshio ide(井出芳夫)
  * @date    2026-05-01
  * @Board   ESP32_DEV_Module 
  * @ボードマネージャ = esp32 by Esprssif Systems (3.04)
@@ -50,7 +50,6 @@
 
 URL livedoor Blog
 
-https://wave0505.blog.jp/preview/edit/7e3329a5da53d80c01fcf4da351b6a12
-
+https://wave0505.blog.jp/archives/31364867.html
 
 
