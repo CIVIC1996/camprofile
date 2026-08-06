@@ -44,7 +44,7 @@
  *
  *
  *
- * Copyright (c) 2026 [yoshio ide]
+ * Copyright (c) 2026 [yoshio ide]井出芳夫
  * All rights reserved.
  */
 
